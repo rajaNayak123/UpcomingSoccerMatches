@@ -14,12 +14,6 @@ A full-stack web application that displays upcoming soccer matches using a free 
 
 ---
 
-## 🖼️ Preview
-
-![App Preview](https://your-preview-image-url-if-any)
-
----
-
 ## 📦 Tech Stack
 
 ### Frontend
